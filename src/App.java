@@ -1,4 +1,4 @@
-import java.util.Random;
+import java.util.Random;        // Lucky7-ohjelmointiharjoitus
 import java.util.Scanner;
 
 
