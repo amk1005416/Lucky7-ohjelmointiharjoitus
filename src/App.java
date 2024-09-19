@@ -65,7 +65,8 @@ public class App {
                 }
                 if (input2.equals("N")) {
                     break;                   
-                }                                             
+                }
+                else System.out.println("Et vastannut Y tai N");                                             
             }
 
 
