@@ -14,7 +14,7 @@ public class App {
 
         int rahat;
 
-        System.out.print("Syötä rahaa: ");
+        System.out.print("Syötä rahaa: ");  // Pyydetään käytäjältä luku minkä haluaa pelata
         input = in.nextLine();
         rahat = Integer.parseInt(input);
         System.out.println();
